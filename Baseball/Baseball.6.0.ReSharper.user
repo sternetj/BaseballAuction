@@ -1,0 +1,95 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:About.aspx" caret="275" fromTop="8" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Default.aspx.cs" caret="857" fromTop="26" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Site.Master" caret="551" fromTop="10" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:About.aspx" caret="240" fromTop="7" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:About.aspx" caret="260" fromTop="6" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Site.Master" caret="882" fromTop="21" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Default.aspx.cs" caret="857" fromTop="26" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="1014" fromTop="0" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="1014" fromTop="5" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="1014" fromTop="8" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="1004" fromTop="6" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="1004" fromTop="7" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="1014" fromTop="9" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="331" fromTop="3" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="440" fromTop="12" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="531" fromTop="7" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="622" fromTop="3" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="766" fromTop="6" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="875" fromTop="6" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Auction.aspx" caret="984" fromTop="5" />
+      <File id="957CE6DD-6647-4275-B233-191CC673E6EC/f:Site.Master" caret="551" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Title" priority="31" />
+      <Item value="Master" priority="31" />
+      <Item value="getUrl" priority="63" />
+      <Item value="host" priority="31" />
+      <Item value="API`0" priority="31" />
+      <Item value="teamName" priority="31" />
+      <Item value="s" priority="63" />
+      <Item value="if" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="true" priority="31" />
+      <Item value="About`0" priority="31" />
+      <Item value="var" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="About" priority="29" />
+      <Item value="a" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="try" priority="31" />
+      <Item value="return" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.MasterPage">
+      <Item value="Controls" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Baseball.API">
+      <Item value="GET`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="AspCodeCompletionContext">
+      <Item value="br" priority="6" />
+      <Item value="Width" priority="15" />
+      <Item value="Height" priority="13" />
+      <Item value="div" priority="20" />
+      <Item value="style" priority="13" />
+      <Item value="inline-box-align" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Visible" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="inline-box-align" priority="0" />
+      <Item value="table" priority="5" />
+      <Item value="black" priority="5" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

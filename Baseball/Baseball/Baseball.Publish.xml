@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\sternetj\Desktop\BBBL" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Baseball.pdb" publishTime="03/03/2014 00:27:38" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/02/2014 15:03:21" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/02/2014 15:03:21" />
+    <file relUrl="Web.config" publishTime="03/03/2014 00:27:50" />
+    <file relUrl="Styles/Site.css" publishTime="03/02/2014 15:03:21" />
+    <file relUrl="About.aspx" publishTime="03/02/2014 15:03:21" />
+    <file relUrl="Default.aspx" publishTime="03/02/2014 15:47:26" />
+    <file relUrl="Site.Master" publishTime="03/02/2014 15:05:13" />
+    <file relUrl="Global.asax" publishTime="03/02/2014 15:03:21" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="03/02/2014 15:03:21" />
+    <file relUrl="bin/Baseball.dll" publishTime="03/03/2014 00:27:38" />
+  </publishProfile>
+</publishData>

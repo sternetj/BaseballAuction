@@ -1,0 +1,204 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.Designer.cs" caret="0" fromTop="0" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="2946" fromTop="42" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="504" fromTop="23" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="5083" fromTop="36" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="1149" fromTop="25" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="504" fromTop="20" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="504" fromTop="19" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="504" fromTop="17" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.Designer.cs" caret="0" fromTop="0" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="2961" fromTop="26" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="493" fromTop="15" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="1138" fromTop="22" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="2961" fromTop="24" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="3611" fromTop="39" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="2961" fromTop="32" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="3051" fromTop="9" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="2265" fromTop="18" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="2139" fromTop="14" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="1525" fromTop="15" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="140" fromTop="6" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="1983" fromTop="21" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="1149" fromTop="8" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="4877" fromTop="35" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="363" fromTop="13" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="4889" fromTop="0" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="4877" fromTop="22" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="4256" fromTop="23" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="3597" fromTop="14" />
+      <File id="55F32229-B69D-4F03-9184-EC3CB7E202F8/f:Form1.cs" caret="2946" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="using" priority="123" />
+      <Item value="System" priority="61" />
+      <Item value="Net" priority="53" />
+      <Item value="var" priority="223" />
+      <Item value="WebRequest`0" priority="31" />
+      <Item value="String`0" priority="95" />
+      <Item value="teamName" priority="31" />
+      <Item value="Formatters" priority="26" />
+      <Item value="Binary" priority="26" />
+      <Item value="request" priority="31" />
+      <Item value="teamNamelbl" priority="31" />
+      <Item value="loginPanel" priority="31" />
+      <Item value="false" priority="95" />
+      <Item value="else" priority="95" />
+      <Item value="MessageBox`0" priority="63" />
+      <Item value="response" priority="63" />
+      <Item value="receiveStream" priority="31" />
+      <Item value="public" priority="63" />
+      <Item value="static" priority="31" />
+      <Item value="string" priority="127" />
+      <Item value="return" priority="63" />
+      <Item value="code" priority="63" />
+      <Item value="GET`0" priority="127" />
+      <Item value="private" priority="63" />
+      <Item value="server" priority="63" />
+      <Item value="int" priority="31" />
+      <Item value="teamId" priority="31" />
+      <Item value="foreach" priority="90" />
+      <Item value="playerList" priority="31" />
+      <Item value="s" priority="127" />
+      <Item value="if" priority="63" />
+      <Item value="continue" priority="31" />
+      <Item value="team" priority="31" />
+      <Item value="p" priority="95" />
+      <Item value="#endregion" priority="63" />
+      <Item value="PlayerName" priority="90" />
+      <Item value="playerTable" priority="154" />
+      <Item value="row" priority="31" />
+      <Item value="lblPlayer" priority="31" />
+      <Item value="btnCancel" priority="31" />
+      <Item value="true" priority="159" />
+      <Item value="btnConfirm" priority="31" />
+      <Item value="bidTeam" priority="63" />
+      <Item value="currentBid" priority="95" />
+      <Item value="btnAccept" priority="31" />
+      <Item value="btnBreak" priority="31" />
+      <Item value="str" priority="31" />
+      <Item value="new" priority="63" />
+      <Item value="object" priority="60" />
+      <Item value="player" priority="31" />
+      <Item value="forr" priority="31" />
+      <Item value="in" priority="31" />
+      <Item value="DataGridViewRow`0" priority="31" />
+      <Item value="t" priority="63" />
+      <Item value="ColorDepth`0" priority="31" />
+      <Item value="Ascending" priority="16" />
+      <Item value="Automatic" priority="16" />
+      <Item value="MessageBoxButtons`0" priority="26" />
+      <Item value="Yes" priority="16" />
+      <Item value="Color`0" priority="31" />
+      <Item value="host" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="26" />
+      <Item value="Replace`0" priority="26" />
+      <Item value="Split`0" priority="107" />
+      <Item value="PadRight`0" priority="26" />
+      <Item value="Normalize`0" priority="53" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Validated" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="CurrentCell" priority="26" />
+      <Item value="EditMode" priority="26" />
+      <Item value="Enabled" priority="22" />
+      <Item value="Rows" priority="53" />
+      <Item value="SortOrder" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="RowIndex" priority="26" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Value" priority="53" />
+      <Item value="Style" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Enabled" priority="26" />
+      <Item value="SelectedValue" priority="26" />
+      <Item value="SelectedItem" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NumericUpDown">
+      <Item value="Enabled" priority="26" />
+      <Item value="Text" priority="26" />
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="Cells" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCellStyle">
+      <Item value="BackColor" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Green" priority="26" />
+      <Item value="Red" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewTextBoxColumn">
+      <Item value="SortMode" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="YesNo" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

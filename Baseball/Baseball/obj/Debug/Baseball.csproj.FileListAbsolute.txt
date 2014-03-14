@@ -1,0 +1,5 @@
+C:\Users\sternetj\Documents\_personal\Baseball\Baseball\Baseball\bin\Baseball.dll
+C:\Users\sternetj\Documents\_personal\Baseball\Baseball\Baseball\bin\Baseball.pdb
+C:\Users\sternetj\Documents\_personal\Baseball\Baseball\Baseball\obj\Debug\Baseball.dll
+C:\Users\sternetj\Documents\_personal\Baseball\Baseball\Baseball\obj\Debug\Baseball.pdb
+C:\Users\sternetj\Documents\_personal\Baseball\Baseball\Baseball\obj\Debug\Baseball.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\bin\Debug\BaseballAuction.exe
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\bin\Debug\BaseballAuction.pdb
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\obj\x86\Debug\BaseballAuction.Form1.resources
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\obj\x86\Debug\BaseballAuction.Properties.Resources.resources
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\obj\x86\Debug\BaseballAuction.csproj.GenerateResource.Cache
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\obj\x86\Debug\BaseballAuction.exe
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\obj\x86\Debug\BaseballAuction.pdb
+C:\Users\sternetj\Documents\_personal\Baseball\BaseballAuction\BaseballAuction\obj\x86\Debug\BaseballAuction.csprojResolveAssemblyReference.cache
